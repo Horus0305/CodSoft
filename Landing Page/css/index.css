@@ -1,0 +1,7 @@
+.navbar{
+    display: flex;
+    background-color: red;
+    justify-content: center;
+    position: fixed;
+
+}
